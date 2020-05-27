@@ -1,2 +1,2 @@
 # Olympus
-This is a repository
+Zeek nation, experience greatness
